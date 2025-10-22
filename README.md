@@ -7,8 +7,7 @@ The project hosts a built-in web server with on-screen control buttons and sends
 ---
 
 ## Project Photo
-![Claw Arm](https://github.com/user-attachments/assets/567752f1-7cfc-4af2-9bfc-f480729df2e1)
-
+![2WD Image](https://github.com/user-attachments/assets/d10a21ea-15fb-414a-815a-45fcec2fc3c4)
 
 ## Features
 - Control robot from any browser (PC / phone)
